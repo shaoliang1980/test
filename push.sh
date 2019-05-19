@@ -5,7 +5,7 @@ echo -e "\n"
 #echo "用户名为:$name"
 
 
-git commit -m "update by shao".$commit
+git commit -m "update by shao$commit"
 
 
 git push -u origin master
