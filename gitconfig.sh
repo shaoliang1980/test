@@ -6,6 +6,8 @@
 
 #git config --global user.email "15953652221@163.com" 
 
+git init
+
 read -t 30  -p "Press Github username:" name
 
 git config --global user.name $name
